@@ -5,3 +5,6 @@ Time tracker
 
 ##purpose
 time tracker - example
+
+##maven freestyle
+example time tracker
